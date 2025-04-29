@@ -103,10 +103,10 @@ export default function Dashboard() {
             <header className="header">TMS Defect Details</header>
 
             <div className="sidebar">
-                <h3>Defect Navigation</h3>
-                <a href="#ticket-details">Ticket Details</a>
+                <h4>By <br/> Babu Miya Mohammad & Team</h4>
+                {/* <a href="#ticket-details">Ticket Details</a>
                 <a href="#comments">Comments</a>
-                <a href="#attachments">Attachments</a>
+                <a href="#attachments">Attachments</a> */}
             </div>
 
             <div className="content">
